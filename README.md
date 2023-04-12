@@ -1,1 +1,3 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/TWlTufW5)
+
+Exercises 1-3: We were instructed to create or reuse a sprite of our choosing and make it so that the sprite would bounce off the x and y of the canvas. We were also instructed to make it so that 50 of them would appear and bounce around at different speeds and positions randomly. The collision detection is a little off for the y coordinate, but otherwise everything we were instructed to do is there. https://editor.p5js.org/CMazz/sketches/ra3f0TvPb
